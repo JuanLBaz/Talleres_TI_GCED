@@ -8,7 +8,9 @@
   // -----------------------------
   // Copilot: mantener inline, quitar chat/agentes
   // -----------------------------
-  "github.copilot.enable": true,
+  "github.copilot.enable": {
+    "*": true
+  },
   "github.copilot.editor.enableAutoCompletions": true,
   "github.copilot.chat.enabled": false,
   "chat.agent.enabled": false,

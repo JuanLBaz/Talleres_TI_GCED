@@ -31,6 +31,5 @@
   // Evitar que paneles se abran “solos”
   "workbench.panel.defaultLocation": "bottom",
   "workbench.panel.opensMaximized": false,
-  "workbench.editor.restoreViewState": false,
-  "workbench.activityBar.location": "default"
+  "workbench.editor.restoreViewState": false
 }
